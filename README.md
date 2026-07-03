@@ -13,11 +13,11 @@ My focus is on transforming complex ideas into practical, user-friendly applicat
 
 ## 🛠️ My Tech Stack:
 
-| Frontend         | Backend          | Database                     | Other Tools          |
-| :--------------- | :--------------- | :--------------------------- | :------------------- |
-| `Next.js`        | `Node.js`        | `PostgreSQL` / `Supabase`    | `TypeScript`         |
-| `React`          | `Express.js`     | `MongoDB` / `Mongoose`       | `JWT Authentication` |
-| `Tailwind CSS`   | `RESTful APIs`   | `Prisma` / `Drizzle ORM`     | `Google OAuth`       |
+| Frontend         | Backend          | Database                     | Other Tools                 |
+| :--------------- | :--------------- | :--------------------------- | :-------------------------- |
+| `Next.js`        | `Node.js`        | `PostgreSQL` / `Supabase`    | `JavaScript` / `TypeScript` |
+| `React`          | `Express.js`     | `MongoDB` / `Mongoose`       | `JWT Authentication`        |
+| `Tailwind CSS`   | `RESTful APIs`   | `Prisma` / `Drizzle ORM`     | `Google OAuth`              |
 
 ## 🔥 Featured Projects:
 
