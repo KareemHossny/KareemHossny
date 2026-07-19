@@ -29,7 +29,7 @@ A comprehensive hospital appointment management system, offering multi-role dash
 
 *   **Problem Solved:** Streamlining the appointment booking process and managing patient/doctor records in a complex hospital environment.
 *   **Results:** Improved administrative operational efficiency, reduced human errors, and provided a seamless user experience for patients and doctors.
-*   [**Live Demo**](https://re3aya-center.vercel.app/) | [**Repository**](https://github.com/KareemHossny/Re3ayaCenter)
+*   [**Live Demo**](https://re3aya.vercel.app/) | [**Repository**](https://github.com/KareemHossny/Re3ayaCenter)
 
 ### 🛒 E-commerce Platform (The-Kreg-Market)
 
@@ -45,7 +45,7 @@ A blogging platform for developers to manage notes, build logs, and architectura
 
 *   **Problem Solved:** Organizing scattered notes and documenting technical processes for developers and teams.
 *   **Results:** Increased productivity, improved collaboration, and provided a unified source for technical information.
-*   [**Live Demo**](https://devnotes-kareemhossny.vercel.app/) | [**Repository**](https://github.com/KareemHossny/DevNotes)
+*   [**Live Demo**](https://thedevnotes.vercel.app/) | [**Repository**](https://github.com/KareemHossny/DevNotes)
 
 ## 💡 My Approach:
 
