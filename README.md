@@ -23,13 +23,13 @@ My focus is on transforming complex ideas into practical, user-friendly applicat
 
 Here are some of my key projects that demonstrate my ability to build complete and effective solutions:
 
-### 🏥 Hospital Management System (Re3aya Center)
+### 🏥 Hospital Management System (Reaaya Center)
 
 A comprehensive hospital appointment management system, offering multi-role dashboards (for Patients, Doctors, and Admins) with secure appointment scheduling and specialization management. Designed for real-world use with scalable APIs and JWT & Google OAuth authentication.
 
 *   **Problem Solved:** Streamlining the appointment booking process and managing patient/doctor records in a complex hospital environment.
 *   **Results:** Improved administrative operational efficiency, reduced human errors, and provided a seamless user experience for patients and doctors.
-*   [**Live Demo**](https://re3aya.vercel.app/) | [**Repository**](https://github.com/KareemHossny/Re3ayaCenter)
+*   [**Live Demo**](https://reaaya.vercel.app/) | [**Repository**](https://github.com/KareemHossny/ReaayaCenter)
 
 ### 🛒 E-commerce Platform (The-Kreg-Market)
 
@@ -37,7 +37,7 @@ A full-featured, full-stack e-commerce application with JWT authentication, cart
 
 *   **Problem Solved:** Providing a robust and customizable e-commerce solution for businesses seeking an alternative to off-the-shelf platforms.
 *   **Results:** An efficient sales platform with an enhanced user experience, easy product and order management, and support for secure payment processing.
-*   [**Live Demo**](https://the-kreg-market.vercel.app/) | [**Repository**](https://github.com/KareemHossny/The-Kreg-Market)
+*   [**Live Demo**](https://the-kreg-market.vercel.app/) | [**Repository**](https://github.com/KareemHossny/Thekreg-Market)
 
 ### 📝 Developer Notes / Workflow System (DevNotes)
 
