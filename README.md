@@ -90,16 +90,6 @@ A secure blogging platform built with React, Express.js, and PostgreSQL featurin
 
 ---
 
-# 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KareemHossny&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KareemHossny&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KareemHossny&theme=tokyonight&hide_border=true)
-
----
-
 # 🤝 Let's Connect
 
 🌐 **Portfolio**  
