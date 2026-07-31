@@ -1,62 +1,116 @@
 # Hi, I'm Kareem Hossny 👋
 
-**A Full-Stack Product Engineer specializing in building robust and efficient software solutions for startups and small to medium-sized businesses.**
+### Full-Stack Developer | React • Next.js • Node.js • TypeScript
 
-My focus is on transforming complex ideas into practical, user-friendly applications, ensuring high performance and scalability.
+I build production-ready software that solves real business problems.
 
-## 🚀 What I Offer (My Services):
+My work focuses on AI-powered SaaS products, scalable web platforms, and modern digital experiences built with React, Next.js, TypeScript, Node.js, and PostgreSQL. I enjoy designing secure backend architectures, intuitive user interfaces, and maintainable systems that deliver excellent performance and user experience.
 
-*   **MVP (Minimum Viable Product) Development:** I help startups launch their initial products quickly and efficiently, from concept to full implementation.
-*   **Custom E-commerce Solutions:** Designing and developing integrated e-commerce platforms, including payment gateways (Stripe), product management, and administrative dashboards.
-*   **Admin Systems & Dashboards:** Building tailored internal tools to streamline operational workflows, manage data, and enhance decision-making efficiency.
-*   **Custom API Development:** Designing and building powerful and secure RESTful APIs to support web and mobile applications.
+---
 
-## 🛠️ My Tech Stack:
+## 🚀 Current Focus
 
-| Frontend         | Backend          | Database                     | Other Tools                 |
-| :--------------- | :--------------- | :--------------------------- | :-------------------------- |
-| `Next.js`        | `Node.js`        | `PostgreSQL` / `Supabase`    | `JavaScript` / `TypeScript` |
-| `React`          | `Express.js`     | `MongoDB` / `Mongoose`       | `JWT Authentication`        |
-| `Tailwind CSS`   | `RESTful APIs`   | `Prisma` / `Drizzle ORM`     | `Google OAuth`              |
+- 🤖 Building AI-powered SaaS applications
+- ⚡ Developing scalable full-stack web platforms
+- 🌍 Creating bilingual (Arabic/English) digital products
+- 🏗️ Exploring software architecture & system design
+- 💼 Open to Frontend & Full-Stack opportunities
 
-## 🔥 Featured Projects:
+---
 
-Here are some of my key projects that demonstrate my ability to build complete and effective solutions:
+# 🛠 Tech Stack
 
-### 🏥 Hospital Management System (Reaaya Center)
+### Frontend
 
-A comprehensive hospital appointment management system, offering multi-role dashboards (for Patients, Doctors, and Admins) with secure appointment scheduling and specialization management. Designed for real-world use with scalable APIs and JWT & Google OAuth authentication.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
 
-*   **Problem Solved:** Streamlining the appointment booking process and managing patient/doctor records in a complex hospital environment.
-*   **Results:** Improved administrative operational efficiency, reduced human errors, and provided a seamless user experience for patients and doctors.
-*   [**Live Demo**](https://reaaya.vercel.app/) | [**Repository**](https://github.com/KareemHossny/ReaayaCenter)
+### Backend
 
-### 🛒 E-commerce Platform (The-Kreg-Market)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-A full-featured, full-stack e-commerce application with JWT authentication, cart management, secure Stripe checkout, an administrative product dashboard, and cloud-hosted image storage.
+### Tools & Services
 
-*   **Problem Solved:** Providing a robust and customizable e-commerce solution for businesses seeking an alternative to off-the-shelf platforms.
-*   **Results:** An efficient sales platform with an enhanced user experience, easy product and order management, and support for secure payment processing.
-*   [**Live Demo**](https://the-kreg-market.vercel.app/) | [**Repository**](https://github.com/KareemHossny/Thekreg-Market)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
+![Paymob](https://img.shields.io/badge/Paymob-0A8F5A?style=for-the-badge)
 
-### 📝 Developer Notes / Workflow System (DevNotes)
+---
 
-A blogging platform for developers to manage notes, build logs, and architectural insights. It supports dynamic data, task organization, and technical documentation with a strong focus on speed, clarity, and usability.
+# ⭐ Featured Projects
 
-*   **Problem Solved:** Organizing scattered notes and documenting technical processes for developers and teams.
-*   **Results:** Increased productivity, improved collaboration, and provided a unified source for technical information.
-*   [**Live Demo**](https://thedevnotes.vercel.app/) | [**Repository**](https://github.com/KareemHossny/DevNotes)
+## 🤖 MailCraft AI — AI Email Generation SaaS
 
-## 💡 My Approach:
+A production-ready AI SaaS that generates professional business emails in English and Arabic using LLMs. Features secure authentication, subscription management, Paymob integration, AI-powered rewriting, email history, PDF/DOCX export, and a fully responsive RTL/LTR experience.
 
-I believe the best technical solutions balance **intuitive design, clean code, and strong performance**. I focus on understanding real business needs to deliver sustainable solutions that make a tangible difference.
+🔗 **Live Demo:** https://ai-mailcraft.vercel.app/
 
-## ✉️ Connect With Me:
+📂 **Repository:** https://github.com/KareemHossny/MailCraft-AI
 
-Have a project that requires my expertise? Let's talk!
+---
 
-*   **Portfolio:** [https://kareemhossny.vercel.app/](https://kareemhossny.vercel.app/)
-*   **LinkedIn:** [https://www.linkedin.com/in/kareem-hossny-89a6b73b2/](https://www.linkedin.com/in/kareem-hossny-89a6b73b2/)
-*   **Email:** [kareemhossny18@icloud.com](mailto:kareemhossny18@icloud.com)
+## 🏥 Reaaya Center — Hospital Management Platform
 
+A production-ready healthcare platform featuring role-based dashboards for Patients, Doctors, and Admins, secure appointment scheduling, JWT & Google OAuth authentication, multilingual support, and analytics powered by React, Express.js, and Supabase.
 
+🔗 **Live Demo:** https://reaaya.vercel.app/
+
+📂 **Repository:** https://github.com/KareemHossny/ReaayaCenter
+
+---
+
+## 👔 Zodiac — Premium Men's Wear E-Commerce Platform
+
+A full-stack Next.js e-commerce platform featuring advanced product management, secure checkout, inventory management, PostgreSQL Row-Level Security (RLS), admin dashboards, and a premium shopping experience.
+
+🔗 **Live Demo:** https://zodiacstore.vercel.app/
+
+📂 **Repository:** https://github.com/KareemHossny/zodiac
+
+---
+
+## 📝 DevNotes — Developer Blogging Platform
+
+A secure blogging platform built with React, Express.js, and PostgreSQL featuring JWT authentication, refresh token rotation, full-text search, and a scalable backend architecture.
+
+🔗 **Live Demo:** https://thedevnotes.vercel.app/
+
+📂 **Repository:** https://github.com/KareemHossny/DevNotes
+
+---
+
+# 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KareemHossny&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KareemHossny&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KareemHossny&theme=tokyonight&hide_border=true)
+
+---
+
+# 🤝 Let's Connect
+
+🌐 **Portfolio**  
+https://kareemhossny.vercel.app/
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/kareem-hossny-89a6b73b2/
+
+📧 **Email**  
+kareemhossny18@icloud.com
+
+---
+
+> **"Building production-ready software with clean architecture, scalable systems, and exceptional user experiences."**
